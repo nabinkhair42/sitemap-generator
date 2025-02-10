@@ -1,7 +1,7 @@
 const express = require("express");
 const axios = require("axios");
 const cheerio = require("cheerio");
-const { parse: parseXML, Builder } = require("xml2js");
+const { parse: Builder } = require("xml2js");
 const { URL } = require("url");
 const robotsParser = require("robots-parser");
 const fs = require("fs");
