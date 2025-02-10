@@ -1,2 +1,7 @@
 sitemaps
 __pycache__
+node_modules
+
+
+app.log
+pnpm-lock.yaml
